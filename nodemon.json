@@ -1,0 +1,13 @@
+{
+  "watch": [
+    "./bin",
+    "./routes"
+  ],
+  "ext": "js,json",
+  "ignore": [],
+  "execMap": {
+    "js": "node --harmony"
+  },
+  "delay": 1000,
+  "legacyWatch": true
+}
